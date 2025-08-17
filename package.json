@@ -1,0 +1,24 @@
+{
+  "name": "smart-home-security-system-06286053",
+  "version": "1.0.0",
+  "description": "An AI-powered home security system that uses computer vision and machine learning to detect intruders and unusual activities\n\n**AI Learning Insights Applied:**\n• Focus on product-market fit validation\n• Build strong customer feedback loops\n• Maintain adequate cash reserves\n\n**Warning Signals to Monitor:**\n⚠️ Monitor market competition closely\n⚠️ Track customer acquisition costs\n⚠️ Watch for cash flow issues",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "next": "^14.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "@stripe/stripe-js": "^2.0.0",
+    "stripe": "^14.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
